@@ -1,0 +1,279 @@
+iteration 1: use 10% for training and 90% for testing
+Trial 1:
+The accuracy of my Naive Bayes Model is: 0.8184811993118702
+The F1 Score of my Naive Bayes Model is: 0.8026916106498225
+Trial 2:
+The accuracy of my Naive Bayes Model is: 0.8197591545834357
+The F1 Score of my Naive Bayes Model is: 0.8043279802081461
+Trial 3:
+The accuracy of my Naive Bayes Model is: 0.8469648562300319
+The F1 Score of my Naive Bayes Model is: 0.8389217176987651
+Trial 4:
+The accuracy of my Naive Bayes Model is: 0.8174490046694519
+The F1 Score of my Naive Bayes Model is: 0.8026478547491401
+Trial 5:
+The accuracy of my Naive Bayes Model is: 0.8474563774883264
+The F1 Score of my Naive Bayes Model is: 0.8431179317369903
+Trial 6:
+The accuracy of my Naive Bayes Model is: 0.8332759891865323
+The F1 Score of my Naive Bayes Model is: 0.8227366041348928
+Trial 7:
+The accuracy of my Naive Bayes Model is: 0.8284345047923323
+The F1 Score of my Naive Bayes Model is: 0.816779125335239
+Trial 8:
+The accuracy of my Naive Bayes Model is: 0.8304743180142541
+The F1 Score of my Naive Bayes Model is: 0.8221944403972667
+Trial 9:
+The accuracy of my Naive Bayes Model is: 0.8347505529614155
+The F1 Score of my Naive Bayes Model is: 0.8271548289239578
+Trial 10:
+The accuracy of my Naive Bayes Model is: 0.8229540427623495
+The F1 Score of my Naive Bayes Model is: 0.8079964683917893
+iteration 2: use 20% for training and 80% for testing
+Trial 1:
+The accuracy of my Naive Bayes Model is: 0.8430423843622992
+The F1 Score of my Naive Bayes Model is: 0.8366763932843557
+Trial 2:
+The accuracy of my Naive Bayes Model is: 0.834886228538251
+The F1 Score of my Naive Bayes Model is: 0.8240352646765705
+Trial 3:
+The accuracy of my Naive Bayes Model is: 0.8324808537698029
+The F1 Score of my Naive Bayes Model is: 0.822987928596397
+Trial 4:
+The accuracy of my Naive Bayes Model is: 0.8336697171611048
+The F1 Score of my Naive Bayes Model is: 0.8241302906562988
+Trial 5:
+The accuracy of my Naive Bayes Model is: 0.8417705770134646
+The F1 Score of my Naive Bayes Model is: 0.8350109638615546
+Trial 6:
+The accuracy of my Naive Bayes Model is: 0.8436782880367165
+The F1 Score of my Naive Bayes Model is: 0.8371185233069801
+Trial 7:
+The accuracy of my Naive Bayes Model is: 0.848876109375432
+The F1 Score of my Naive Bayes Model is: 0.8425103272323986
+Trial 8:
+The accuracy of my Naive Bayes Model is: 0.8432912162348973
+The F1 Score of my Naive Bayes Model is: 0.838440126632807
+Trial 9:
+The accuracy of my Naive Bayes Model is: 0.8315131742652547
+The F1 Score of my Naive Bayes Model is: 0.8182133869639018
+Trial 10:
+The accuracy of my Naive Bayes Model is: 0.8583317205341591
+The F1 Score of my Naive Bayes Model is: 0.8552319268041254
+iteration 3: use 30% for training and 70% for testing
+Trial 1:
+The accuracy of my Naive Bayes Model is: 0.8388523761375126
+The F1 Score of my Naive Bayes Model is: 0.8313811083059777
+Trial 2:
+The accuracy of my Naive Bayes Model is: 0.8371145096056622
+The F1 Score of my Naive Bayes Model is: 0.8278964391031375
+Trial 3:
+The accuracy of my Naive Bayes Model is: 0.8266557128412538
+The F1 Score of my Naive Bayes Model is: 0.8150734193000172
+Trial 4:
+The accuracy of my Naive Bayes Model is: 0.8470993427704753
+The F1 Score of my Naive Bayes Model is: 0.84007152531861
+Trial 5:
+The accuracy of my Naive Bayes Model is: 0.8437815975733064
+The F1 Score of my Naive Bayes Model is: 0.8369441039720049
+Trial 6:
+The accuracy of my Naive Bayes Model is: 0.8456458543983822
+The F1 Score of my Naive Bayes Model is: 0.8408259274325839
+Trial 7:
+The accuracy of my Naive Bayes Model is: 0.8496271486349848
+The F1 Score of my Naive Bayes Model is: 0.8445377318019532
+Trial 8:
+The accuracy of my Naive Bayes Model is: 0.8301946410515673
+The F1 Score of my Naive Bayes Model is: 0.8190710588736505
+Trial 9:
+The accuracy of my Naive Bayes Model is: 0.8331016177957533
+The F1 Score of my Naive Bayes Model is: 0.8221168707363403
+Trial 10:
+The accuracy of my Naive Bayes Model is: 0.8356926188068756
+The F1 Score of my Naive Bayes Model is: 0.8269782490796488
+iteration 4: use 40% for training and 60% for testing
+Trial 1:
+The accuracy of my Naive Bayes Model is: 0.8543148892247576
+The F1 Score of my Naive Bayes Model is: 0.8505059252125954
+Trial 2:
+The accuracy of my Naive Bayes Model is: 0.8413757510966934
+The F1 Score of my Naive Bayes Model is: 0.8321259810563606
+Trial 3:
+The accuracy of my Naive Bayes Model is: 0.8481217974711542
+The F1 Score of my Naive Bayes Model is: 0.8405234553615825
+Trial 4:
+The accuracy of my Naive Bayes Model is: 0.8354038411914328
+The F1 Score of my Naive Bayes Model is: 0.8261055121431671
+Trial 5:
+The accuracy of my Naive Bayes Model is: 0.8323810225974122
+The F1 Score of my Naive Bayes Model is: 0.8197773225854821
+Trial 6:
+The accuracy of my Naive Bayes Model is: 0.8351826593430899
+The F1 Score of my Naive Bayes Model is: 0.826047367739618
+Trial 7:
+The accuracy of my Naive Bayes Model is: 0.8350352047775279
+The F1 Score of my Naive Bayes Model is: 0.8261334733521355
+Trial 8:
+The accuracy of my Naive Bayes Model is: 0.8368415232056623
+The F1 Score of my Naive Bayes Model is: 0.8273973572673593
+Trial 9:
+The accuracy of my Naive Bayes Model is: 0.8348140229291849
+The F1 Score of my Naive Bayes Model is: 0.8246377727102681
+Trial 10:
+The accuracy of my Naive Bayes Model is: 0.8498175249751171
+The F1 Score of my Naive Bayes Model is: 0.8445161564412182
+iteration 5: use 50% for training and 50% for testing
+Trial 1:
+The accuracy of my Naive Bayes Model is: 0.8399982305582588
+The F1 Score of my Naive Bayes Model is: 0.8310598352428428
+Trial 2:
+The accuracy of my Naive Bayes Model is: 0.8355303901619039
+The F1 Score of my Naive Bayes Model is: 0.8265246948924463
+Trial 3:
+The accuracy of my Naive Bayes Model is: 0.8380518446430151
+The F1 Score of my Naive Bayes Model is: 0.8281008968909718
+Trial 4:
+The accuracy of my Naive Bayes Model is: 0.8391135096876935
+The F1 Score of my Naive Bayes Model is: 0.8302757623876016
+Trial 5:
+The accuracy of my Naive Bayes Model is: 0.849951340352119
+The F1 Score of my Naive Bayes Model is: 0.8444439405754705
+Trial 6:
+The accuracy of my Naive Bayes Model is: 0.8379633725559585
+The F1 Score of my Naive Bayes Model is: 0.8277910257877477
+Trial 7:
+The accuracy of my Naive Bayes Model is: 0.8393346899053349
+The F1 Score of my Naive Bayes Model is: 0.8309359500337602
+Trial 8:
+The accuracy of my Naive Bayes Model is: 0.8467221091745555
+The F1 Score of my Naive Bayes Model is: 0.8415565467015923
+Trial 9:
+The accuracy of my Naive Bayes Model is: 0.8391135096876935
+The F1 Score of my Naive Bayes Model is: 0.8307319884524397
+Trial 10:
+The accuracy of my Naive Bayes Model is: 0.8357958064230735
+The F1 Score of my Naive Bayes Model is: 0.8262159882167369
+iteration 6: use 60% for training and 40% for testing
+Trial 1:
+The accuracy of my Naive Bayes Model is: 0.8412496544097319
+The F1 Score of my Naive Bayes Model is: 0.8326432664380997
+Trial 2:
+The accuracy of my Naive Bayes Model is: 0.8380978711639481
+The F1 Score of my Naive Bayes Model is: 0.8305794125284749
+Trial 3:
+The accuracy of my Naive Bayes Model is: 0.8410284766380979
+The F1 Score of my Naive Bayes Model is: 0.8319705013359333
+Trial 4:
+The accuracy of my Naive Bayes Model is: 0.8424661321537186
+The F1 Score of my Naive Bayes Model is: 0.8346551025587141
+Trial 5:
+The accuracy of my Naive Bayes Model is: 0.8452308542991429
+The F1 Score of my Naive Bayes Model is: 0.8391367985679586
+Trial 6:
+The accuracy of my Naive Bayes Model is: 0.83400608238872
+The F1 Score of my Naive Bayes Model is: 0.8247763621474119
+Trial 7:
+The accuracy of my Naive Bayes Model is: 0.8430743710257119
+The F1 Score of my Naive Bayes Model is: 0.8361795973518296
+Trial 8:
+The accuracy of my Naive Bayes Model is: 0.8401990599944705
+The F1 Score of my Naive Bayes Model is: 0.8306944146397643
+Trial 9:
+The accuracy of my Naive Bayes Model is: 0.8393143489079348
+The F1 Score of my Naive Bayes Model is: 0.8311164943244438
+Trial 10:
+The accuracy of my Naive Bayes Model is: 0.8369366878628698
+The F1 Score of my Naive Bayes Model is: 0.827435045533595
+iteration 7: use 70% for training and 30% for testing
+Trial 1:
+The accuracy of my Naive Bayes Model is: 0.8395753465054556
+The F1 Score of my Naive Bayes Model is: 0.8304306847521543
+Trial 2:
+The accuracy of my Naive Bayes Model is: 0.8379534060749042
+The F1 Score of my Naive Bayes Model is: 0.8300955140858322
+Trial 3:
+The accuracy of my Naive Bayes Model is: 0.8505603066941905
+The F1 Score of my Naive Bayes Model is: 0.8452703342809014
+Trial 4:
+The accuracy of my Naive Bayes Model is: 0.8425980536714833
+The F1 Score of my Naive Bayes Model is: 0.8347259461922799
+Trial 5:
+The accuracy of my Naive Bayes Model is: 0.8479799469183131
+The F1 Score of my Naive Bayes Model is: 0.8415901274764073
+Trial 6:
+The accuracy of my Naive Bayes Model is: 0.8435564730168092
+The F1 Score of my Naive Bayes Model is: 0.836453755054126
+Trial 7:
+The accuracy of my Naive Bayes Model is: 0.8365526393394279
+The F1 Score of my Naive Bayes Model is: 0.8270948018088368
+Trial 8:
+The accuracy of my Naive Bayes Model is: 0.8425980536714833
+The F1 Score of my Naive Bayes Model is: 0.8340069732424289
+Trial 9:
+The accuracy of my Naive Bayes Model is: 0.840017693895606
+The F1 Score of my Naive Bayes Model is: 0.8320326812917083
+Trial 10:
+The accuracy of my Naive Bayes Model is: 0.8380271306399292
+The F1 Score of my Naive Bayes Model is: 0.8288721469988138
+iteration 8: use 80% for training and 20% for testing
+Trial 1:
+The accuracy of my Naive Bayes Model is: 0.8311401083711157
+The F1 Score of my Naive Bayes Model is: 0.8204600763190263
+Trial 2:
+The accuracy of my Naive Bayes Model is: 0.8367798297025324
+The F1 Score of my Naive Bayes Model is: 0.8278233124594736
+Trial 3:
+The accuracy of my Naive Bayes Model is: 0.8357845847616941
+The F1 Score of my Naive Bayes Model is: 0.8257630188191248
+Trial 4:
+The accuracy of my Naive Bayes Model is: 0.8386597368130045
+The F1 Score of my Naive Bayes Model is: 0.8291320363662295
+Trial 5:
+The accuracy of my Naive Bayes Model is: 0.8414243060931107
+The F1 Score of my Naive Bayes Model is: 0.8334295301464586
+Trial 6:
+The accuracy of my Naive Bayes Model is: 0.8451841203140551
+The F1 Score of my Naive Bayes Model is: 0.8384308368208061
+Trial 7:
+The accuracy of my Naive Bayes Model is: 0.8360057503041026
+The F1 Score of my Naive Bayes Model is: 0.8250541867432485
+Trial 8:
+The accuracy of my Naive Bayes Model is: 0.8360057503041026
+The F1 Score of my Naive Bayes Model is: 0.8263213227766405
+Trial 9:
+The accuracy of my Naive Bayes Model is: 0.83932323344023
+The F1 Score of my Naive Bayes Model is: 0.831198293744119
+Trial 10:
+The accuracy of my Naive Bayes Model is: 0.8384385712705961
+The F1 Score of my Naive Bayes Model is: 0.8298824107128137
+iteration 9: use 90% for training and 10% for testing
+Trial 1:
+The accuracy of my Naive Bayes Model is: 0.8421052631578947
+The F1 Score of my Naive Bayes Model is: 0.8340021045137762
+Trial 2:
+The accuracy of my Naive Bayes Model is: 0.8343653250773994
+The F1 Score of my Naive Bayes Model is: 0.8255196781298301
+Trial 3:
+The accuracy of my Naive Bayes Model is: 0.8361344537815126
+The F1 Score of my Naive Bayes Model is: 0.8260653018522907
+Trial 4:
+The accuracy of my Naive Bayes Model is: 0.8396727111897391
+The F1 Score of my Naive Bayes Model is: 0.8308278682658078
+Trial 5:
+The accuracy of my Naive Bayes Model is: 0.8440955329500222
+The F1 Score of my Naive Bayes Model is: 0.834342261814896
+Trial 6:
+The accuracy of my Naive Bayes Model is: 0.849624060150376
+The F1 Score of my Naive Bayes Model is: 0.8427340850438252
+Trial 7:
+The accuracy of my Naive Bayes Model is: 0.8248562582927909
+The F1 Score of my Naive Bayes Model is: 0.8151429423978456
+Trial 8:
+The accuracy of my Naive Bayes Model is: 0.8330384785493145
+The F1 Score of my Naive Bayes Model is: 0.8231548935447872
+Trial 9:
+The accuracy of my Naive Bayes Model is: 0.8301636444051305
+The F1 Score of my Naive Bayes Model is: 0.817603828375288
+Trial 10:
+The accuracy of my Naive Bayes Model is: 0.8314904909332154
+The F1 Score of my Naive Bayes Model is: 0.8197235776224563
